@@ -1,0 +1,67 @@
+body {
+    background-color: #3084BE;
+    color: white;
+    font-family:  Florence, cursive;
+    font-size: 110%;
+}
+
+header {
+    text-align: center;
+    background-image: url('./Pictures/clouds.jpeg');
+    margin-left: 42%;
+    margin-right: 25%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    padding-top: .5%;
+    padding-bottom: .5%;
+    border-radius: 10%;
+}
+
+.clinton, .maga {
+    border-radius: 50%;
+}
+
+.clinton {
+    width: 5%; 
+}
+
+.maga {
+    width: 10%;
+}
+
+.left {
+    float: left;
+    width: 25%;
+}
+
+#fake_news {
+    padding-left: 3%;
+}
+
+#skirt {
+    padding-top: 20%;
+    border-radius: 80%;
+}
+
+#main {
+    float: right;
+    width: 60%;
+    margin-right: 10%;
+    border-radius: 40%;
+}
+
+.box {
+    border: 5px solid white;
+    padding-left: 5%;
+    margin-top: 2.5%;
+}
+
+#menu {
+    margin-top: 25%;
+    margin-left: 12%;
+    margin-right: 12%;
+    border: 5px solid white;
+    border-radius: 5%;
+}
+
+
