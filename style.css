@@ -41,7 +41,8 @@ header {
 .box {
     border: 5px solid white;
     border-radius: 10px;
-    padding-left: 5%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
     margin-top: 2.5%;
 }
 
